@@ -48,4 +48,6 @@ So, from my observation and implementation, the project clearly states that Quan
 
 The implementation I did was by using a mere Simple Quantum Circuit, whereas the classical Model which is using logistic regression has much more complexity in comparison to the current quantum circuit. The sole reason would be, I have insufficient knowledge to develop a more complex quantum circuit using different parameters and gate combinations. As this is just the beginning of my journey in quantum computing, I would consider this as an experiment done for learning purposes.
 
-Not all tasks done by classical ML would have better accuracy in Qua
+Not all tasks done by classical ML would have better accuracy in Quantum ML, I believe as I move further and study more about how a complex quantum circuit with less noise can be implemented, I will attain the sufficient intellectual for gaining the accuracy of 100% using QML. Also QML is used for far more complex computations in comparison to the classification that I did in the project, so quantum computers do work better at such tasks than the classical computer.
+
+# Dhairya Patel
